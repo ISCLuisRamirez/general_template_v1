@@ -1,2 +1,2 @@
 # GT
-General Template for digital platforms
+General Template for digital platforms.
